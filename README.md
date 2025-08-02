@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💻 Computer Science & Business student @ USC (Minor in AI + Cybersecurity)<br>
+🧑‍💻 Computer Science & Business student @ USC (Minors in AI + Cybersecurity)<br>
 🤖 ML Researcher at the USC ICAROS Robotics Lab<br>
 📊 Prev Data & ML Intern @ DrFirst | AWS + LSTM + QuickSight<br>
 🎮 Lead Dev of Pokémon Desolation, Azure, Reborn, & Rejuvenation (1M+ downloads!)<br>
