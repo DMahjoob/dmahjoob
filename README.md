@@ -5,9 +5,9 @@
 🎮 Lead Dev of Pokémon Desolation, Azure, Reborn, & Rejuvenation (1M+ downloads!)<br>
 🎼 Composer of 100+ original tracks for fan-made Pokémon games<br>
 🧠 TA for Machine Learning, DSA, Neural Nets<br>
-📈 Built stock predictor using historical data + LSTM (71% accuracy)
-📝 Created a Discord bot for live meeting transcription + AI summarization
-💼 President @ Avenues Consulting Group | Manage 50+ consultants, 30+ clients
+📈 Built stock predictor using historical data + LSTM (71% accuracy)<br>
+📝 Created a Discord bot for live meeting transcription + AI summarization<br>
+💼 President @ Avenues Consulting Group | Manage 50+ consultants, 30+ clients<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/darius-mahjoob/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@dariusmcomposer) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dmahjoob@usc.edu) 
