@@ -2,7 +2,7 @@
 🧑‍💻 Computer Science & Business student @ USC (Minors in AI + Cybersecurity)<br>
 🤖 ML Researcher at the USC ICAROS Robotics Lab<br>
 📊 Prev Data & ML Intern @ DrFirst | AWS + LSTM + QuickSight<br>
-🎮 Lead Dev of Pokémon Desolation, Azure, Reborn, & Rejuvenation (1M+ downloads!)<br>
+🎮 Developer & Sound Design for Pokémon Desolation, Azure, Reborn, & Rejuvenation (1M+ downloads!)<br>
 🎼 Composer of 100+ original tracks for fan-made Pokémon games<br>
 🧠 TA for Machine Learning, DSA, Neural Nets<br>
 📈 Built stock predictor using historical data + LSTM (71% accuracy)<br>
