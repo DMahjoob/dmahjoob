@@ -4,7 +4,7 @@
 📊 Prev Data & ML Intern @ DrFirst | AWS + LSTM + QuickSight<br>
 🎮 Developer & Sound Design for Pokémon Desolation, Azure, Reborn, & Rejuvenation (1M+ downloads!)<br>
 🎼 Composer of 100+ original tracks for fan-made Pokémon games<br>
-🧠 TA for Machine Learning, DSA, Neural Nets<br>
+🧠 TA for Machine Learning, Data Structures & Algorithms, Neural Networks, and Data Science<br>
 📈 Built stock predictor using historical data + LSTM (71% accuracy)<br>
 📝 Created a Discord bot for live meeting transcription + AI summarization<br>
 💼 President @ Avenues Consulting Group | Manage 50+ consultants, 30+ clients<br>
