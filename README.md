@@ -7,7 +7,7 @@
 🧠 TA for Machine Learning, Data Structures & Algorithms, Neural Networks, and Data Science<br>
 📈 Built stock predictor using historical data + LSTM (71% accuracy)<br>
 📝 Created a Discord bot for live meeting transcription + AI summarization<br>
-💼 President @ Avenues Consulting Group | Manage 50+ consultants, 30+ clients<br>
+💼 President @ Avenues Consulting Group | Managed 100+ total consultants, 30+ total clients<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darius-mahjoob/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@dariusmcomposer) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dmahjoob@usc.edu) 
