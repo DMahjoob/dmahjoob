@@ -1,6 +1,6 @@
 # 💫 About Me:
 🧑‍💻 Computer Science & Business student @ USC (Minor in AI Applications)<br>
-🤖 ML Researcher at the USC ICAROS Robotics Lab<br>
+🤖 ML Researcher at the USC ICAROS Robotics Lab & Interaction Lab<br>
 📊 Prev Data & ML Intern @ DrFirst | AWS + LSTM + QuickSight<br>
 🎮 Developer & Sound Design for Pokémon Desolation, Azure, Reborn, & Rejuvenation (1M+ downloads!)<br>
 🎼 Composer of 100+ original tracks for fan-made Pokémon games<br>
